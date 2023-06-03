@@ -6,7 +6,7 @@
 2. #### Dependencies
    - [Eigen 3.3.9](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 3. #### CMAKE
-   - modify the path to RTMaps4 folder and eigen3 library in the CMakeLists.txt
+   - modify the path to RTMaps4 folder in the CMakeLists.txt
 4. #### Building
    - In the root folder, run: 
    ```bash
